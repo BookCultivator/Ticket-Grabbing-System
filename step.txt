@@ -1,1 +1,2 @@
 1. 取得登入狀態的cookies
+2.test .git
