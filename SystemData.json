@@ -1,6 +1,21 @@
 {
-    "UserBaseData": {
-        "UID": "R125090676", 
-        "callnumber" : "0979339568"
+    "data": {
+        "date": "2025/11/06",
+        "flimit": "",
+        "isdpromotion": "false",
+        "type": "hidden",
+        "slimit": "2025/12/04",
+        "isspromotion": "false",
+        "plimit": "2025/11/10",
+        "name": "toTimeInputField",
+        "limit": "2025/12/04",
+        "id": "toTimeInputField",
+        "class": [
+            "uk-input",
+            "out-date",
+            "flatpickr-input"
+        ],
+        "value": "2025/11/06",
+        "isfreeseat": "false"
     }
 }
